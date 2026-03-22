@@ -94,3 +94,6 @@ navigator.config.js
 .tamagui
 vendor
 *.pxd
+
+# Icon generation
+run-make-icon.sh
