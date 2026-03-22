@@ -15,9 +15,9 @@
                   <BuildableReference
                      BuildableIdentifier = "primary"
                      BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-                     BuildableName = "NavigatorApp.app"
-                     BlueprintName = "NavigatorApp"
-                     ReferencedContainer = "container:NavigatorApp.xcodeproj">
+                     BuildableName = "RefitApp.app"
+                     BlueprintName = "RefitApp"
+                     ReferencedContainer = "container:RefitApp.xcodeproj">
                   </BuildableReference>
                </EnvironmentBuildable>
             </ActionContent>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "NavigatorApp.app"
-               BlueprintName = "NavigatorApp"
-               ReferencedContainer = "container:NavigatorApp.xcodeproj">
+               BuildableName = "RefitApp.app"
+               BlueprintName = "RefitApp"
+               ReferencedContainer = "container:RefitApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -51,9 +51,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "NavigatorAppTests.xctest"
-               BlueprintName = "NavigatorAppTests"
-               ReferencedContainer = "container:NavigatorApp.xcodeproj">
+               BuildableName = "RefitAppTests.xctest"
+               BlueprintName = "RefitAppTests"
+               ReferencedContainer = "container:RefitApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -73,9 +73,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "NavigatorApp.app"
-            BlueprintName = "NavigatorApp"
-            ReferencedContainer = "container:NavigatorApp.xcodeproj">
+            BuildableName = "RefitApp.app"
+            BlueprintName = "RefitApp"
+            ReferencedContainer = "container:RefitApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <EnvironmentVariables>
@@ -97,9 +97,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "NavigatorApp.app"
-            BlueprintName = "NavigatorApp"
-            ReferencedContainer = "container:NavigatorApp.xcodeproj">
+            BuildableName = "RefitApp.app"
+            BlueprintName = "RefitApp"
+            ReferencedContainer = "container:RefitApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
@@ -108,7 +108,7 @@
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
-      customArchiveName = "NavigatorApp"
+      customArchiveName = "RefitApp"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
